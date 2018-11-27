@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[DVD]
+(
+	[CatNo] VARCHAR(10) NOT NULL PRIMARY KEY, 
+    [Title] VARCHAR(50) NOT NULL, 
+    [Genre] VARCHAR(10) NOT NULL, 
+    [Rating] VARCHAR(10) NOT NULL
+)

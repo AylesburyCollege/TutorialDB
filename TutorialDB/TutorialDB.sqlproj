@@ -61,4 +61,9 @@
   <ItemGroup>
     <Build Include="CreateEmployees.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SQLDatabase.mdf" />
+    <None Include="CreateTableStaff.sql" />
+    <None Include="CreateTableDVD.sql" />
+  </ItemGroup>
 </Project>
