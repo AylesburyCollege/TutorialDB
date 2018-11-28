@@ -60,6 +60,8 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="CreateEmployees.sql" />
+    <Build Include="CreateBranchTable.sql" />
+    <Build Include="InsertBranches.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SQLDatabase.mdf" />
